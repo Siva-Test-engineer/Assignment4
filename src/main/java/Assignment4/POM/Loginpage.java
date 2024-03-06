@@ -49,6 +49,9 @@ public class Loginpage {
 	public String error_Alert_Text() {
 		return login_errorWebElement.getText();
 	}
+	public void actionnnns() {
+	
+	}
 
 	public String forgot_password(String username) {
 		forgot_passwordWebElement.click();
